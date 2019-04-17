@@ -137,6 +137,16 @@
       transform: rotate(360deg);
     }
   }
+  @media screen and (max-width: 1440px) {
+      .link1 {
+        left: 300px;
+        top: 650px;
+      }
+      .link2 {
+        left: 970px;
+        top: 650px;
+      }
+  }
 
   @media screen and (max-width: 1390px) {
       .link1 {

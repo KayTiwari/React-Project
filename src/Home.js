@@ -12,10 +12,8 @@ const Home = () => {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           </header>
+          <a href='https://github.com/KayTiwari'><i class="fab fa-github fa-2x"></i></a>
           </div>
-          <i class="fab fa-github fa-2x fa-spin"></i>
-          <i class="fab fa-twitter fa-2x fa-spin"></i>
-          <i class="fab fa-facebook fa-2x fa-spin"></i>
             <Link to='./Main' className='link'>Enter Main Site</Link>
         </div>
     )

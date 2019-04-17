@@ -12,7 +12,6 @@ const Main = () => {
         {/* <img className='stream' src='https://i.pinimg.com/originals/62/56/ef/6256efa3425f2dc8aaa060fd37a605d1.gif'></img> */}
         <div className='linkcontainer'>
         <Link to='/Threecard' className='link1'>3 Card Reading</Link>
-        <Contact />
         <Link to='/Fivecard' className='link2'>5 Card Reading</Link>
         </div>
     </div>
